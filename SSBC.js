@@ -1,3 +1,4 @@
+/*This is an API based off of the characters from the Super Smash Brothers series by Nintendo*/
 let SSBC = [
     {
         id: 1,
